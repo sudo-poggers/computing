@@ -1,0 +1,7 @@
+A computer program is a application on a computer. These can be used for a number of things: gaming, text editing, photo/video editing, etc. e.g: Steam, Microsoft Word. Terminal (cmd.exe) and Python.
+
+A computer program is a collection of instructions that performs a task when executed by the computer.
+
+A programmer writes code in a language that is readable by humans. This code is converted to machine code by a compiler or interpreter.
+
+Each line of code is executed by a compiler or interpreter. 
